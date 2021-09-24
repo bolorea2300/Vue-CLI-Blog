@@ -1,4 +1,4 @@
-# vueblog
+# vue-blog
 
 ## Project setup
 ```
